@@ -12,4 +12,4 @@ class Solution:
                 slow+=1
             fast+=1
         return min_len if min_len!=float("inf") else 0
-        #题目中显示有数组，且是正整数，子数组，想到滑动窗口（快慢指针）
+        #题目中显示有数组，且是正整数，子数组，想到滑动窗口（快慢指针）.
